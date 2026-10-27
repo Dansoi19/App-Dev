@@ -1,2 +1,4 @@
 # App-Dev
-My first respository
+My first Repository
+
+My favorite movie series is STRANGER THINGS
